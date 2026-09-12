@@ -1,0 +1,6 @@
+{
+  "name": "BankLens AI",
+  "description": "Convert bank statements into structured transaction data using AI OCR. Supports uploading PDF/Images and exporting directly to CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
